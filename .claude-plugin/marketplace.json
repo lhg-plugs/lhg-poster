@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"海报设计专家：一句话生成手机端可读的海报——需求拆解、版式方案、确定性绘制规范、手机端可读性自检（15条审计规则）。","name":"lhg-poster","source":"./"}]}
